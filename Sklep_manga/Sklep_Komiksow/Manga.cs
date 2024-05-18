@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//to jest test
 namespace Komiksy
 {
     public interface IKoszyk

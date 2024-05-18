@@ -1,0 +1,10 @@
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\bin\Debug\Sklep_Komiksow.dll
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\bin\Debug\Sklep_Komiksow.pdb
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\obj\Debug\Zadanie2.csproj.CopyComplete
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\verma\source\repos\Sklep_manga\Zadanie2\obj\Debug\Zadanie2.pdb
